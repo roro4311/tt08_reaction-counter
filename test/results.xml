@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1721407429" />
+    <testcase name="test_reaction_timer" classname="test" file="/home/student/TinyTapeout/tt08-reaction-counter/test/test.py" lineno="6" time="11.58966875076294" sim_time_ns="4122950.0" ratio_time="355743.55822107417">
+      <failure message="Test failed with RANDOM_SEED=1721407429" />
+    </testcase>
+  </testsuite>
+</testsuites>
